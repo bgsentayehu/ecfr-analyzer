@@ -26,7 +26,7 @@ This project counts the number of words associated with each federal agency acro
    pip install requests lxml streamlit pandas
 3. **Generate back end**
    ```bash
-   python ecfr_agency_wordcount.py
+   python ecfr_word_counts.py
    python ecfr_historical_trends.py
 4. **Launch the front end**
    ```bash
